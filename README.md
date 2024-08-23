@@ -1,6 +1,11 @@
 ## Hi there 👋
-
-<!--
+bem vindo ao meu perfil
+meu nome é mariana camargos
+esse é o meu e-mail 0001109509388
+estou estudando na alura
+estou desenvolvendo na linguagem JavaScript
+eu uso esse espaço para minha organizaçao
+<!-- e compartilhamentos dos meus projetos
 **mariicamargos12/mariicamargos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
